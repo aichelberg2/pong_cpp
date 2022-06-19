@@ -1,5 +1,10 @@
 {
   "makefile.extensionOutputFolder": "./.vscode",
   "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
-  "cmake.configureOnOpen": true
+  "cmake.configureOnOpen": true,
+  "files.associations": {
+    "*.cs": "csharp",
+    "iostream": "cpp",
+    "*.tcc": "cpp"
+  }
 }
