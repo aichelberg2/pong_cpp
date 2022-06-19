@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Programmieren/pong_cpp/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Pong.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\Pong.dir\\src\\main.cpp.obj -c D:\\Programmieren\\pong_cpp\\src\\main.cpp",
+  "file": "D:/Programmieren/pong_cpp/src/main.cpp"
+}
+]
