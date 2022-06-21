@@ -3,5 +3,30 @@
   "directory": "D:/Programmieren/pong_cpp/build",
   "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Pong.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\Pong.dir\\src\\main.cpp.obj -c D:\\Programmieren\\pong_cpp\\src\\main.cpp",
   "file": "D:/Programmieren/pong_cpp/src/main.cpp"
+},
+{
+  "directory": "D:/Programmieren/pong_cpp/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Pong.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\Pong.dir\\src\\engine.cpp.obj -c D:\\Programmieren\\pong_cpp\\src\\engine.cpp",
+  "file": "D:/Programmieren/pong_cpp/src/engine.cpp"
+},
+{
+  "directory": "D:/Programmieren/pong_cpp/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Pong.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\Pong.dir\\src\\windowHandler.cpp.obj -c D:\\Programmieren\\pong_cpp\\src\\windowHandler.cpp",
+  "file": "D:/Programmieren/pong_cpp/src/windowHandler.cpp"
+},
+{
+  "directory": "D:/Programmieren/pong_cpp/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Pong.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\Pong.dir\\src\\eventHandler.cpp.obj -c D:\\Programmieren\\pong_cpp\\src\\eventHandler.cpp",
+  "file": "D:/Programmieren/pong_cpp/src/eventHandler.cpp"
+},
+{
+  "directory": "D:/Programmieren/pong_cpp/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Pong.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\Pong.dir\\src\\animationHandler.cpp.obj -c D:\\Programmieren\\pong_cpp\\src\\animationHandler.cpp",
+  "file": "D:/Programmieren/pong_cpp/src/animationHandler.cpp"
+},
+{
+  "directory": "D:/Programmieren/pong_cpp/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/Pong.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\Pong.dir\\src\\movementHandler.cpp.obj -c D:\\Programmieren\\pong_cpp\\src\\movementHandler.cpp",
+  "file": "D:/Programmieren/pong_cpp/src/movementHandler.cpp"
 }
 ]

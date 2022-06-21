@@ -3,7 +3,8 @@ project(Pong)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Pong src/main.cpp)
+add_executable(Pong src/main.cpp src/engine.cpp headers/engine.hpp src/windowHandler.cpp src/eventHandler.cpp src/animationHandler.cpp 
+src/movementHandler.cpp)
 # add_executable(nibbles src/main.cpp src/engine.cpp headers/engine.hpp src/draw.cpp src/input.cpp src/snakesection.cpp headers/snakesection.hpp src/update.cpp src/apple.cpp headers/apple.hpp src/wall.cpp headers/wall.hpp)
 
 find_package(OpenGL REQUIRED)

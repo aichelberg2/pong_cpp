@@ -83,14 +83,99 @@ CMakeFiles/Pong.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Pong.dir/src/main.cpp.s"
 	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Programmieren\pong_cpp\src\main.cpp -o CMakeFiles\Pong.dir\src\main.cpp.s
 
+CMakeFiles/Pong.dir/src/engine.cpp.obj: CMakeFiles/Pong.dir/flags.make
+CMakeFiles/Pong.dir/src/engine.cpp.obj: CMakeFiles/Pong.dir/includes_CXX.rsp
+CMakeFiles/Pong.dir/src/engine.cpp.obj: D:/Programmieren/pong_cpp/src/engine.cpp
+CMakeFiles/Pong.dir/src/engine.cpp.obj: CMakeFiles/Pong.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Programmieren\pong_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Pong.dir/src/engine.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Pong.dir/src/engine.cpp.obj -MF CMakeFiles\Pong.dir\src\engine.cpp.obj.d -o CMakeFiles\Pong.dir\src\engine.cpp.obj -c D:\Programmieren\pong_cpp\src\engine.cpp
+
+CMakeFiles/Pong.dir/src/engine.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Pong.dir/src/engine.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Programmieren\pong_cpp\src\engine.cpp > CMakeFiles\Pong.dir\src\engine.cpp.i
+
+CMakeFiles/Pong.dir/src/engine.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Pong.dir/src/engine.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Programmieren\pong_cpp\src\engine.cpp -o CMakeFiles\Pong.dir\src\engine.cpp.s
+
+CMakeFiles/Pong.dir/src/windowHandler.cpp.obj: CMakeFiles/Pong.dir/flags.make
+CMakeFiles/Pong.dir/src/windowHandler.cpp.obj: CMakeFiles/Pong.dir/includes_CXX.rsp
+CMakeFiles/Pong.dir/src/windowHandler.cpp.obj: D:/Programmieren/pong_cpp/src/windowHandler.cpp
+CMakeFiles/Pong.dir/src/windowHandler.cpp.obj: CMakeFiles/Pong.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Programmieren\pong_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Pong.dir/src/windowHandler.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Pong.dir/src/windowHandler.cpp.obj -MF CMakeFiles\Pong.dir\src\windowHandler.cpp.obj.d -o CMakeFiles\Pong.dir\src\windowHandler.cpp.obj -c D:\Programmieren\pong_cpp\src\windowHandler.cpp
+
+CMakeFiles/Pong.dir/src/windowHandler.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Pong.dir/src/windowHandler.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Programmieren\pong_cpp\src\windowHandler.cpp > CMakeFiles\Pong.dir\src\windowHandler.cpp.i
+
+CMakeFiles/Pong.dir/src/windowHandler.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Pong.dir/src/windowHandler.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Programmieren\pong_cpp\src\windowHandler.cpp -o CMakeFiles\Pong.dir\src\windowHandler.cpp.s
+
+CMakeFiles/Pong.dir/src/eventHandler.cpp.obj: CMakeFiles/Pong.dir/flags.make
+CMakeFiles/Pong.dir/src/eventHandler.cpp.obj: CMakeFiles/Pong.dir/includes_CXX.rsp
+CMakeFiles/Pong.dir/src/eventHandler.cpp.obj: D:/Programmieren/pong_cpp/src/eventHandler.cpp
+CMakeFiles/Pong.dir/src/eventHandler.cpp.obj: CMakeFiles/Pong.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Programmieren\pong_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Pong.dir/src/eventHandler.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Pong.dir/src/eventHandler.cpp.obj -MF CMakeFiles\Pong.dir\src\eventHandler.cpp.obj.d -o CMakeFiles\Pong.dir\src\eventHandler.cpp.obj -c D:\Programmieren\pong_cpp\src\eventHandler.cpp
+
+CMakeFiles/Pong.dir/src/eventHandler.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Pong.dir/src/eventHandler.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Programmieren\pong_cpp\src\eventHandler.cpp > CMakeFiles\Pong.dir\src\eventHandler.cpp.i
+
+CMakeFiles/Pong.dir/src/eventHandler.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Pong.dir/src/eventHandler.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Programmieren\pong_cpp\src\eventHandler.cpp -o CMakeFiles\Pong.dir\src\eventHandler.cpp.s
+
+CMakeFiles/Pong.dir/src/animationHandler.cpp.obj: CMakeFiles/Pong.dir/flags.make
+CMakeFiles/Pong.dir/src/animationHandler.cpp.obj: CMakeFiles/Pong.dir/includes_CXX.rsp
+CMakeFiles/Pong.dir/src/animationHandler.cpp.obj: D:/Programmieren/pong_cpp/src/animationHandler.cpp
+CMakeFiles/Pong.dir/src/animationHandler.cpp.obj: CMakeFiles/Pong.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Programmieren\pong_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Pong.dir/src/animationHandler.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Pong.dir/src/animationHandler.cpp.obj -MF CMakeFiles\Pong.dir\src\animationHandler.cpp.obj.d -o CMakeFiles\Pong.dir\src\animationHandler.cpp.obj -c D:\Programmieren\pong_cpp\src\animationHandler.cpp
+
+CMakeFiles/Pong.dir/src/animationHandler.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Pong.dir/src/animationHandler.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Programmieren\pong_cpp\src\animationHandler.cpp > CMakeFiles\Pong.dir\src\animationHandler.cpp.i
+
+CMakeFiles/Pong.dir/src/animationHandler.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Pong.dir/src/animationHandler.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Programmieren\pong_cpp\src\animationHandler.cpp -o CMakeFiles\Pong.dir\src\animationHandler.cpp.s
+
+CMakeFiles/Pong.dir/src/movementHandler.cpp.obj: CMakeFiles/Pong.dir/flags.make
+CMakeFiles/Pong.dir/src/movementHandler.cpp.obj: CMakeFiles/Pong.dir/includes_CXX.rsp
+CMakeFiles/Pong.dir/src/movementHandler.cpp.obj: D:/Programmieren/pong_cpp/src/movementHandler.cpp
+CMakeFiles/Pong.dir/src/movementHandler.cpp.obj: CMakeFiles/Pong.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Programmieren\pong_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Pong.dir/src/movementHandler.cpp.obj"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Pong.dir/src/movementHandler.cpp.obj -MF CMakeFiles\Pong.dir\src\movementHandler.cpp.obj.d -o CMakeFiles\Pong.dir\src\movementHandler.cpp.obj -c D:\Programmieren\pong_cpp\src\movementHandler.cpp
+
+CMakeFiles/Pong.dir/src/movementHandler.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Pong.dir/src/movementHandler.cpp.i"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Programmieren\pong_cpp\src\movementHandler.cpp > CMakeFiles\Pong.dir\src\movementHandler.cpp.i
+
+CMakeFiles/Pong.dir/src/movementHandler.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Pong.dir/src/movementHandler.cpp.s"
+	C:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Programmieren\pong_cpp\src\movementHandler.cpp -o CMakeFiles\Pong.dir\src\movementHandler.cpp.s
+
 # Object files for target Pong
 Pong_OBJECTS = \
-"CMakeFiles/Pong.dir/src/main.cpp.obj"
+"CMakeFiles/Pong.dir/src/main.cpp.obj" \
+"CMakeFiles/Pong.dir/src/engine.cpp.obj" \
+"CMakeFiles/Pong.dir/src/windowHandler.cpp.obj" \
+"CMakeFiles/Pong.dir/src/eventHandler.cpp.obj" \
+"CMakeFiles/Pong.dir/src/animationHandler.cpp.obj" \
+"CMakeFiles/Pong.dir/src/movementHandler.cpp.obj"
 
 # External object files for target Pong
 Pong_EXTERNAL_OBJECTS =
 
 Pong.exe: CMakeFiles/Pong.dir/src/main.cpp.obj
+Pong.exe: CMakeFiles/Pong.dir/src/engine.cpp.obj
+Pong.exe: CMakeFiles/Pong.dir/src/windowHandler.cpp.obj
+Pong.exe: CMakeFiles/Pong.dir/src/eventHandler.cpp.obj
+Pong.exe: CMakeFiles/Pong.dir/src/animationHandler.cpp.obj
+Pong.exe: CMakeFiles/Pong.dir/src/movementHandler.cpp.obj
 Pong.exe: CMakeFiles/Pong.dir/build.make
 Pong.exe: C:/SFML/lib/libsfml-system-d.a
 Pong.exe: C:/SFML/lib/libsfml-window-d.a
@@ -101,7 +186,7 @@ Pong.exe: C:/SFML/lib/libsfml-main-d.a
 Pong.exe: CMakeFiles/Pong.dir/linklibs.rsp
 Pong.exe: CMakeFiles/Pong.dir/objects1.rsp
 Pong.exe: CMakeFiles/Pong.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Programmieren\pong_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Pong.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\Programmieren\pong_cpp\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable Pong.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Pong.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

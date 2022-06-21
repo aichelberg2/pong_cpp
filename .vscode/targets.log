@@ -1,6 +1,6 @@
 make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
 
-# Make data base, printed on Sun Jun 19 16:07:16 2022
+# Make data base, printed on Tue Jun 21 20:18:30 2022
 
 # Variables
 
@@ -37,9 +37,9 @@ VSCODE_NLS_CONFIG = {"locale":"en","availableLanguages":{},"_languagePackSupport
 # environment
 VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # environment
-VSCODE_PID = 15008
+VSCODE_PID = 7700
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-09a1b0e3-99f5-4c19-a703-87d0e9c5bf6c-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-6391cc25-ee6d-4e89-aa4c-ae0699628238-sock
 # environment
 TMP = C:\Users\aiche\AppData\Local\Temp
 # environment
@@ -81,7 +81,7 @@ SESSIONNAME = Console
 # environment
 ONEDRIVE = C:\Users\aiche\Duale Hochschule Baden-W�rttemberg Stuttgart
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_15008_EVTKBGIEARADIXWH
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_7700_GTGRJMVEQGTYWUAV
 # environment
 ONEDRIVECOMMERCIAL = C:\Users\aiche\Duale Hochschule Baden-W�rttemberg Stuttgart
 # environment
@@ -164,7 +164,7 @@ all:
 
 # No general (`VPATH' variable) search path.
 
-# Finished Make data base on Sun Jun 19 16:07:16 2022
+# Finished Make data base on Tue Jun 21 20:18:30 2022
 
  
 make.exe: unrecognized option `--no-builtin-variables'

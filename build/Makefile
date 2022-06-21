@@ -128,6 +128,78 @@ Pong/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Pong.dir\build.make CMakeFiles/Pong.dir/build
 .PHONY : Pong/fast
 
+src/animationHandler.obj: src/animationHandler.cpp.obj
+.PHONY : src/animationHandler.obj
+
+# target to build an object file
+src/animationHandler.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Pong.dir\build.make CMakeFiles/Pong.dir/src/animationHandler.cpp.obj
+.PHONY : src/animationHandler.cpp.obj
+
+src/animationHandler.i: src/animationHandler.cpp.i
+.PHONY : src/animationHandler.i
+
+# target to preprocess a source file
+src/animationHandler.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Pong.dir\build.make CMakeFiles/Pong.dir/src/animationHandler.cpp.i
+.PHONY : src/animationHandler.cpp.i
+
+src/animationHandler.s: src/animationHandler.cpp.s
+.PHONY : src/animationHandler.s
+
+# target to generate assembly for a file
+src/animationHandler.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Pong.dir\build.make CMakeFiles/Pong.dir/src/animationHandler.cpp.s
+.PHONY : src/animationHandler.cpp.s
+
+src/engine.obj: src/engine.cpp.obj
+.PHONY : src/engine.obj
+
+# target to build an object file
+src/engine.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Pong.dir\build.make CMakeFiles/Pong.dir/src/engine.cpp.obj
+.PHONY : src/engine.cpp.obj
+
+src/engine.i: src/engine.cpp.i
+.PHONY : src/engine.i
+
+# target to preprocess a source file
+src/engine.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Pong.dir\build.make CMakeFiles/Pong.dir/src/engine.cpp.i
+.PHONY : src/engine.cpp.i
+
+src/engine.s: src/engine.cpp.s
+.PHONY : src/engine.s
+
+# target to generate assembly for a file
+src/engine.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Pong.dir\build.make CMakeFiles/Pong.dir/src/engine.cpp.s
+.PHONY : src/engine.cpp.s
+
+src/eventHandler.obj: src/eventHandler.cpp.obj
+.PHONY : src/eventHandler.obj
+
+# target to build an object file
+src/eventHandler.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Pong.dir\build.make CMakeFiles/Pong.dir/src/eventHandler.cpp.obj
+.PHONY : src/eventHandler.cpp.obj
+
+src/eventHandler.i: src/eventHandler.cpp.i
+.PHONY : src/eventHandler.i
+
+# target to preprocess a source file
+src/eventHandler.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Pong.dir\build.make CMakeFiles/Pong.dir/src/eventHandler.cpp.i
+.PHONY : src/eventHandler.cpp.i
+
+src/eventHandler.s: src/eventHandler.cpp.s
+.PHONY : src/eventHandler.s
+
+# target to generate assembly for a file
+src/eventHandler.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Pong.dir\build.make CMakeFiles/Pong.dir/src/eventHandler.cpp.s
+.PHONY : src/eventHandler.cpp.s
+
 src/main.obj: src/main.cpp.obj
 .PHONY : src/main.obj
 
@@ -152,6 +224,54 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Pong.dir\build.make CMakeFiles/Pong.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+src/movementHandler.obj: src/movementHandler.cpp.obj
+.PHONY : src/movementHandler.obj
+
+# target to build an object file
+src/movementHandler.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Pong.dir\build.make CMakeFiles/Pong.dir/src/movementHandler.cpp.obj
+.PHONY : src/movementHandler.cpp.obj
+
+src/movementHandler.i: src/movementHandler.cpp.i
+.PHONY : src/movementHandler.i
+
+# target to preprocess a source file
+src/movementHandler.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Pong.dir\build.make CMakeFiles/Pong.dir/src/movementHandler.cpp.i
+.PHONY : src/movementHandler.cpp.i
+
+src/movementHandler.s: src/movementHandler.cpp.s
+.PHONY : src/movementHandler.s
+
+# target to generate assembly for a file
+src/movementHandler.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Pong.dir\build.make CMakeFiles/Pong.dir/src/movementHandler.cpp.s
+.PHONY : src/movementHandler.cpp.s
+
+src/windowHandler.obj: src/windowHandler.cpp.obj
+.PHONY : src/windowHandler.obj
+
+# target to build an object file
+src/windowHandler.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Pong.dir\build.make CMakeFiles/Pong.dir/src/windowHandler.cpp.obj
+.PHONY : src/windowHandler.cpp.obj
+
+src/windowHandler.i: src/windowHandler.cpp.i
+.PHONY : src/windowHandler.i
+
+# target to preprocess a source file
+src/windowHandler.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Pong.dir\build.make CMakeFiles/Pong.dir/src/windowHandler.cpp.i
+.PHONY : src/windowHandler.cpp.i
+
+src/windowHandler.s: src/windowHandler.cpp.s
+.PHONY : src/windowHandler.s
+
+# target to generate assembly for a file
+src/windowHandler.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Pong.dir\build.make CMakeFiles/Pong.dir/src/windowHandler.cpp.s
+.PHONY : src/windowHandler.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -161,9 +281,24 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Pong
+	@echo ... src/animationHandler.obj
+	@echo ... src/animationHandler.i
+	@echo ... src/animationHandler.s
+	@echo ... src/engine.obj
+	@echo ... src/engine.i
+	@echo ... src/engine.s
+	@echo ... src/eventHandler.obj
+	@echo ... src/eventHandler.i
+	@echo ... src/eventHandler.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s
+	@echo ... src/movementHandler.obj
+	@echo ... src/movementHandler.i
+	@echo ... src/movementHandler.s
+	@echo ... src/windowHandler.obj
+	@echo ... src/windowHandler.i
+	@echo ... src/windowHandler.s
 .PHONY : help
 
 
